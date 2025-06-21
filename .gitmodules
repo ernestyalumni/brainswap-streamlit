@@ -1,0 +1,3 @@
+[submodule "submodules/InServiceOfX"]
+	path = submodules/InServiceOfX
+	url = https://github.com/InServiceOfX/InServiceOfX.git
